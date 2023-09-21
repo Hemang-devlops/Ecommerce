@@ -1,1 +1,1 @@
-# Ecommerce Website with help of React and Django
+# Ecommerce Website with the help of React and Django
